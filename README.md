@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @DeadProgrammerHorror
+- 👋 Hi, I’m @DeadProgrammer
+- I love programming
+- im a professional
 
 
 <!---
